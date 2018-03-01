@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="300px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="motionPath" class="fil0 str0" d="M4367.47 11629.56c764.06,-38.87 1528.13,-77.73 2151.22,-502.86 623.1,-425.12 1105.23,-1236.51 1499.16,-1630.45 393.94,-393.93 699.68,-370.42 1087.74,29.4 388.05,399.82 858.43,1175.93 1429.26,1588.84 570.84,412.92 1242.14,462.63 1577.41,487.02 335.28,24.39 334.52,23.44 333.77,22.5"/>
+  <circle id="circle" class="fil1 str0" cx="0" cy="0" r="170"/>
+  <!-- <animateMotion xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#circle" dur="5s" begin="0s" fill="freeze" repeatCount="indefinite">
+    <mpath xlink:href="#motionPath"></mpath>
+  </animateMotion> -->
+ </g>
+</svg>
